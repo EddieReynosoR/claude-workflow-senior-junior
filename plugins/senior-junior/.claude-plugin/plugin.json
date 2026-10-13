@@ -1,0 +1,8 @@
+{
+  "name": "senior-junior",
+  "version": "1.0.0",
+  "description": "Plan-first workflow: /discovery or senior plan review, a saved plan file, manual /execute, and a handoff report for the user's review",
+  "author": {
+    "name": "Eduardo Reynoso"
+  }
+}

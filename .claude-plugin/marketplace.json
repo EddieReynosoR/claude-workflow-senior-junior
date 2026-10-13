@@ -1,0 +1,14 @@
+{
+  "name": "eduardo-workflow",
+  "description": "Eduardo's personal Claude Code workflows",
+  "owner": {
+    "name": "Eduardo"
+  },
+  "plugins": [
+    {
+      "name": "senior-junior",
+      "source": "./plugins/senior-junior",
+      "description": "Plan-first workflow: discovery or senior plan review, saved plan file, manual execution, user review"
+    }
+  ]
+}
